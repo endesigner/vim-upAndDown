@@ -1,0 +1,4 @@
+<Shift> <Up>    Move current line one row up.
+<Shift> <Down>  Same as above but down.
+
+Works for visual block selections.
